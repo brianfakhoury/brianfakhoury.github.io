@@ -1,0 +1,272 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Brian Fakhoury",
+    "home_page_url": "https://fakhoury.xyz/",
+    "feed_url": "https://fakhoury.xyz/feed.json",
+    "description": "My personal site and digital garden.",
+    "icon": "https://fakhoury.xyz/icon.png",
+    "author": {
+        "name": "Brian Fakhoury",
+        "url": "https://fakhoury.xyz"
+    },
+    "items": [
+        {
+            "id": "https://fakhoury.xyz/our-van",
+            "url": "https://fakhoury.xyz/our-van",
+            "title": "Our Van: Design and Decisions",
+            "summary": "A reflection on our decision making process in creating our adventure van.",
+            "image": "https://fakhoury.xyz/our-van/og.png",
+            "date_modified": "2024-10-12T00:00:00.000Z",
+            "date_published": "2024-10-12T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "van",
+                "off-grid",
+                "daily-life"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/self-help",
+            "url": "https://fakhoury.xyz/self-help",
+            "title": "Every self-help tip I've discovered",
+            "summary": "An evolving list of self-help tips focused on personal growth, productivity, and well-being.",
+            "image": "https://fakhoury.xyz/self-help/og.png",
+            "date_modified": "2024-09-03T00:00:00.000Z",
+            "date_published": "2023-06-23T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "life"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/million-markets",
+            "url": "https://fakhoury.xyz/million-markets",
+            "title": "A Million Markets: From the Bazaar to the DEX",
+            "summary": "Exploring the evolution of markets from ancient bazaars to decentralized exchanges (DEX) and the future of millions of new crypto markets.",
+            "image": "https://fakhoury.xyz/million-markets/og.png",
+            "date_modified": "2023-02-24T00:00:00.000Z",
+            "date_published": "2023-02-24T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "markets",
+                "history"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/settlement-layers",
+            "url": "https://fakhoury.xyz/settlement-layers",
+            "title": "Settlement Layers",
+            "summary": "A settlement layer records digital asset ownership. Ethereum leads now, but new blockchains may challenge as crypto grows.",
+            "image": "https://fakhoury.xyz/settlement-layers/og.png",
+            "date_modified": "2022-10-19T00:00:00.000Z",
+            "date_published": "2022-10-19T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "tech"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/history-rhymes",
+            "url": "https://fakhoury.xyz/history-rhymes",
+            "title": "History Rhymes, In Defense Of Crypto",
+            "summary": "Parallels between early internet and crypto show growing adoption will lead to a significant future impact on society.",
+            "image": "https://fakhoury.xyz/history-rhymes/og.png",
+            "date_modified": "2022-06-11T00:00:00.000Z",
+            "date_published": "2022-06-11T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "history",
+                "opinion"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/writing-rich",
+            "url": "https://fakhoury.xyz/writing-rich",
+            "title": "Writing Can Make One Rich*",
+            "summary": "Writing is a powerful tool that fosters continuous learning and growth, offering non-monetary richness through the pursuit of knowledge and personal fulfillment.",
+            "image": "https://fakhoury.xyz/writing-rich/og.png",
+            "date_modified": "2022-04-19T00:00:00.000Z",
+            "date_published": "2022-04-19T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "opinion",
+                "philosophy"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/bribe-tokens",
+            "url": "https://fakhoury.xyz/bribe-tokens",
+            "title": "Bribe Tokens",
+            "summary": "Exploring how \"bribe tokens\" could impact blockchain politics and influence DeFi protocols like 1inch.",
+            "image": "https://fakhoury.xyz/bribe-tokens/og.png",
+            "date_modified": "2022-01-24T00:00:00.000Z",
+            "date_published": "2022-01-24T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "programming",
+                "hacking"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/hybrid-compute",
+            "url": "https://fakhoury.xyz/hybrid-compute",
+            "title": "Hybrid Compute Smart Contract Platforms",
+            "summary": "An exploration of smart contracts using external data sources.",
+            "image": "https://fakhoury.xyz/hybrid-compute/og.png",
+            "date_modified": "2022-01-24T00:00:00.000Z",
+            "date_published": "2022-01-24T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "programming",
+                "tech"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/iov-crypto-bridges",
+            "url": "https://fakhoury.xyz/iov-crypto-bridges",
+            "title": "The Snakes and Ladders of Crypto",
+            "summary": "How blockchain bridges connect networks, enabling smoother asset transfers and boosting the interconnected crypto economy.",
+            "image": "https://fakhoury.xyz/iov-crypto-bridges/og.png",
+            "date_modified": "2021-08-23T00:00:00.000Z",
+            "date_published": "2021-08-23T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "mechanisms"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/iov-optimistic-resolution",
+            "url": "https://fakhoury.xyz/iov-optimistic-resolution",
+            "title": "Conflict Resolution, Optimistically",
+            "summary": "A look at optimistic problem-solving in blockchain, exploring how it enables scaling, improves oracles, and strengthens trust in crypto economies.",
+            "image": "https://fakhoury.xyz/iov-optimistic-resolution/og.png",
+            "date_modified": "2021-08-15T00:00:00.000Z",
+            "date_published": "2021-08-15T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "mechanisms"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/iov-liquid-super-communities",
+            "url": "https://fakhoury.xyz/iov-liquid-super-communities",
+            "title": "Liquid Super Communities",
+            "summary": "An exploration of web3 communities where token-based memberships allow for flexible participation.",
+            "image": "https://fakhoury.xyz/iov-liquid-super-communities/og.png",
+            "date_modified": "2021-08-08T00:00:00.000Z",
+            "date_published": "2021-08-08T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "society"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/future-is-dao",
+            "url": "https://fakhoury.xyz/future-is-dao",
+            "title": "The Future is DAO: A Primer on DAOs and Their Explosive Growth",
+            "summary": "A simple guide to how decentralized autonomous organizations (DAOs) are changing the way people manage money and make decisions online.",
+            "image": "https://fakhoury.xyz/future-is-dao/og.png",
+            "date_modified": "2021-05-05T00:00:00.000Z",
+            "date_published": "2021-05-05T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "crypto",
+                "DAOs"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/aug-2019-book-snippets",
+            "url": "https://fakhoury.xyz/aug-2019-book-snippets",
+            "title": "7 Books for August — Quick Snippets on What I’ve Read",
+            "summary": "Quick takeaways from 7 books I read in August 2019, covering topics like psychology, design, history, and more.",
+            "image": "https://fakhoury.xyz/aug-2019-book-snippets/og.png",
+            "date_modified": "2019-08-29T00:00:00.000Z",
+            "date_published": "2019-08-29T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "books",
+                "reading"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/rig",
+            "url": "https://fakhoury.xyz/rig",
+            "title": "The Rig (Computer)",
+            "summary": "A look at building a custom high-performance PC, featuring an Intel i7, GTX 970, and personal insights on optimizing for power and performance.",
+            "image": "https://fakhoury.xyz/rig/og.png",
+            "date_modified": "2017-05-08T00:00:00.000Z",
+            "date_published": "2017-05-08T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "pc",
+                "hardware"
+            ]
+        },
+        {
+            "id": "https://fakhoury.xyz/smooth-reverie",
+            "url": "https://fakhoury.xyz/smooth-reverie",
+            "title": "Salutatory Address: Smooth Reverie",
+            "summary": "My speech as a salutatorian at my high school in 2016.",
+            "image": "https://fakhoury.xyz/smooth-reverie/og.png",
+            "date_modified": "2016-05-28T00:00:00.000Z",
+            "date_published": "2016-05-28T00:00:00.000Z",
+            "author": {
+                "name": "Brian Fakhoury",
+                "url": "https://fakhoury.xyz"
+            },
+            "tags": [
+                "speech"
+            ]
+        }
+    ]
+}

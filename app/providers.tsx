@@ -51,7 +51,7 @@ export function Providers({ children }: ProviderProps) {
 
   useEffect(() => {
     console.info("%c" + asciiArt, "font-family: monospace; white-space: pre;");
-  }, []);
+  }, [asciiArt]);
 
   return (
     <NextUIProvider>

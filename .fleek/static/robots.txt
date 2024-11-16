@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://fakhoury.xyz
+Sitemap: https://fakhoury.xyz/sitemap.xml

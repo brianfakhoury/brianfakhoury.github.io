@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Brian Fakhoury</title>
+        <link>https://fakhoury.xyz/</link>
+        <description>My personal site and digital garden.</description>
+        <lastBuildDate>Sat, 12 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node</generator>
+        <language>en</language>
+        <image>
+            <title>Brian Fakhoury</title>
+            <url>https://fakhoury.xyz/icon.png</url>
+            <link>https://fakhoury.xyz/</link>
+        </image>
+        <copyright>2024, Brian Fakhoury</copyright>
+        <category>Technology</category>
+        <category>Programming</category>
+        <category>Self Improvement</category>
+        <atom:link href="https://fakhoury.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Van: Design and Decisions]]></title>
+            <link>https://fakhoury.xyz/our-van</link>
+            <guid>https://fakhoury.xyz/our-van</guid>
+            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[A reflection on our decision making process in creating our adventure van.]]></description>
+            <category>van</category>
+            <category>off-grid</category>
+            <category>daily-life</category>
+            <enclosure url="https://fakhoury.xyz/our-van/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Every self-help tip I've discovered]]></title>
+            <link>https://fakhoury.xyz/self-help</link>
+            <guid>https://fakhoury.xyz/self-help</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[An evolving list of self-help tips focused on personal growth, productivity, and well-being.]]></description>
+            <category>life</category>
+            <enclosure url="https://fakhoury.xyz/self-help/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A Million Markets: From the Bazaar to the DEX]]></title>
+            <link>https://fakhoury.xyz/million-markets</link>
+            <guid>https://fakhoury.xyz/million-markets</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exploring the evolution of markets from ancient bazaars to decentralized exchanges (DEX) and the future of millions of new crypto markets.]]></description>
+            <category>crypto</category>
+            <category>markets</category>
+            <category>history</category>
+            <enclosure url="https://fakhoury.xyz/million-markets/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Settlement Layers]]></title>
+            <link>https://fakhoury.xyz/settlement-layers</link>
+            <guid>https://fakhoury.xyz/settlement-layers</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A settlement layer records digital asset ownership. Ethereum leads now, but new blockchains may challenge as crypto grows.]]></description>
+            <category>crypto</category>
+            <category>tech</category>
+            <enclosure url="https://fakhoury.xyz/settlement-layers/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[History Rhymes, In Defense Of Crypto]]></title>
+            <link>https://fakhoury.xyz/history-rhymes</link>
+            <guid>https://fakhoury.xyz/history-rhymes</guid>
+            <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Parallels between early internet and crypto show growing adoption will lead to a significant future impact on society.]]></description>
+            <category>crypto</category>
+            <category>history</category>
+            <category>opinion</category>
+            <enclosure url="https://fakhoury.xyz/history-rhymes/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Writing Can Make One Rich*]]></title>
+            <link>https://fakhoury.xyz/writing-rich</link>
+            <guid>https://fakhoury.xyz/writing-rich</guid>
+            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Writing is a powerful tool that fosters continuous learning and growth, offering non-monetary richness through the pursuit of knowledge and personal fulfillment.]]></description>
+            <category>opinion</category>
+            <category>philosophy</category>
+            <enclosure url="https://fakhoury.xyz/writing-rich/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bribe Tokens]]></title>
+            <link>https://fakhoury.xyz/bribe-tokens</link>
+            <guid>https://fakhoury.xyz/bribe-tokens</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exploring how "bribe tokens" could impact blockchain politics and influence DeFi protocols like 1inch.]]></description>
+            <category>crypto</category>
+            <category>programming</category>
+            <category>hacking</category>
+            <enclosure url="https://fakhoury.xyz/bribe-tokens/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hybrid Compute Smart Contract Platforms]]></title>
+            <link>https://fakhoury.xyz/hybrid-compute</link>
+            <guid>https://fakhoury.xyz/hybrid-compute</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[An exploration of smart contracts using external data sources.]]></description>
+            <category>crypto</category>
+            <category>programming</category>
+            <category>tech</category>
+            <enclosure url="https://fakhoury.xyz/hybrid-compute/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Snakes and Ladders of Crypto]]></title>
+            <link>https://fakhoury.xyz/iov-crypto-bridges</link>
+            <guid>https://fakhoury.xyz/iov-crypto-bridges</guid>
+            <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How blockchain bridges connect networks, enabling smoother asset transfers and boosting the interconnected crypto economy.]]></description>
+            <category>crypto</category>
+            <category>mechanisms</category>
+            <enclosure url="https://fakhoury.xyz/iov-crypto-bridges/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Conflict Resolution, Optimistically]]></title>
+            <link>https://fakhoury.xyz/iov-optimistic-resolution</link>
+            <guid>https://fakhoury.xyz/iov-optimistic-resolution</guid>
+            <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look at optimistic problem-solving in blockchain, exploring how it enables scaling, improves oracles, and strengthens trust in crypto economies.]]></description>
+            <category>crypto</category>
+            <category>mechanisms</category>
+            <enclosure url="https://fakhoury.xyz/iov-optimistic-resolution/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Super Communities]]></title>
+            <link>https://fakhoury.xyz/iov-liquid-super-communities</link>
+            <guid>https://fakhoury.xyz/iov-liquid-super-communities</guid>
+            <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[An exploration of web3 communities where token-based memberships allow for flexible participation.]]></description>
+            <category>crypto</category>
+            <category>society</category>
+            <enclosure url="https://fakhoury.xyz/iov-liquid-super-communities/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Future is DAO: A Primer on DAOs and Their Explosive Growth]]></title>
+            <link>https://fakhoury.xyz/future-is-dao</link>
+            <guid>https://fakhoury.xyz/future-is-dao</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A simple guide to how decentralized autonomous organizations (DAOs) are changing the way people manage money and make decisions online.]]></description>
+            <category>crypto</category>
+            <category>DAOs</category>
+            <enclosure url="https://fakhoury.xyz/future-is-dao/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7 Books for August — Quick Snippets on What I’ve Read]]></title>
+            <link>https://fakhoury.xyz/aug-2019-book-snippets</link>
+            <guid>https://fakhoury.xyz/aug-2019-book-snippets</guid>
+            <pubDate>Thu, 29 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Quick takeaways from 7 books I read in August 2019, covering topics like psychology, design, history, and more.]]></description>
+            <category>books</category>
+            <category>reading</category>
+            <enclosure url="https://fakhoury.xyz/aug-2019-book-snippets/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rig (Computer)]]></title>
+            <link>https://fakhoury.xyz/rig</link>
+            <guid>https://fakhoury.xyz/rig</guid>
+            <pubDate>Mon, 08 May 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look at building a custom high-performance PC, featuring an Intel i7, GTX 970, and personal insights on optimizing for power and performance.]]></description>
+            <category>pc</category>
+            <category>hardware</category>
+            <enclosure url="https://fakhoury.xyz/rig/og.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Salutatory Address: Smooth Reverie]]></title>
+            <link>https://fakhoury.xyz/smooth-reverie</link>
+            <guid>https://fakhoury.xyz/smooth-reverie</guid>
+            <pubDate>Sat, 28 May 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[My speech as a salutatorian at my high school in 2016.]]></description>
+            <category>speech</category>
+            <enclosure url="https://fakhoury.xyz/smooth-reverie/og.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
